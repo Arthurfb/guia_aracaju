@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">GuiaTuristico2</string>
+    <string name="restaurante_tab">Restaurantes</string>
+    <string name="orlas_tab">Orlas</string>
+    <string name="clubes_tab">Clubes</string>
+    <string name="curiosidades_tab">Sobre</string>
+
+    <string name="titulo_cariri">Restaurante Cariri</string>
+    <string name="titulo_atalaia">Orla da Atalaia</string>
+    <string name="titulo_iate">Iate Clube</string>
+    <string name="titulo_aracaju">Sobre Aracaju</string>
+
+    <string name="saiba_iate">http://iateclubearacaju.com.br/</string>
+    <string name="saiba_cariri">http://www.cariri-se.com.br/</string>
+    <string name="saiba_atalaia">https://www.mileumaviagens.com.br/orla-de-atalaia-aracaju/</string>
+    <string name="saiba_aracaju">http://blogdeclara.com/11-coisas-que-voce-precisa-saber-sobre-aracaju/</string>
+
+    <string name="cariri_descriçao">Um dos restaurantes mais conhecidos de Aracaju, o Cariri Restaurante e Casa do Forró localiza-se na Orla da Atalaia e oferece pratos e bebidas típicos do Nordeste. Uma das especialidades da casa é a Moqueca de Camarão, preparada com azeite de Dendê. Já a sugestão de bebida é a Frutarosa, feita com vodca e frutas. O cliente pode participar do clube do uísque, com marcas nacionais e internacionais.
+        \n
+        \n
+
+Outras sugestões do cardápio são o Pirão de Capão, Cozido de Carneiro, Estrogonofe de Frango e de Camarão, além de mariscos, peixes, churrasco e massas. O prato vem servido com saladas variadas, como a Salada ao Cariri, com camarão, cubos de abacaxi, cenoura, batata e molho tártaro. Além de restaurante, a casa possui um espaço onde o cliente conhece o famoso forró pé-de-serra, dança típica da região, com música ao vivo e ambiente climatizado.</string>
+
+    <string name="atalaia_descriçao">A Orla de Atalaia é um dos mais belos cartões postais de Aracaju, considerada o maior centro de entretenimento e lazer de todo o Norte e Nordeste e o mais movimentado ponto turístico da capital.
+        \n
+        \n
+
+Ela abriga restaurantes, bares, os melhores hotéis, apartamentos luxuosos e ainda possui uma infraestrutura de lazer completa com quadras de tênis, 04 campos de futebol, quadras polivalentes e de areia, a maior pista de skate pública do país, aparelhos com vaporizadores de água para banhistas e esportistas, área de ginástica, ciclovia, parede de escaladas com 03 faces, a cidade da criança, áreas para piquiniques, lagos para canoagem e pedalinhos, uma praça de eventos com mais de 24.000 m², kartódromo, pista de cooper, estátuas, arcos, centro de artesanato e o Oceanário do Projeto Tamar, tudo isso em perfeita harmonia.
+        \n
+        \n
+
+Não é à toa que a Orla de Atalaia é considerada a maior e mais completa orla de todo o Brasil, além de ser uma das praias mais famosas de Aracaju.
+        \n
+        \n
+
+A praia possui uma beleza natural, de água quente, limpa e muito calma, ideal para o banho e para prática de esporte, devido a sua grande faixa de areia firme. Para minha surpresa não vi muitos banhistas nesta praia, mas eu passaria dias inteiros alí, naquela tranquilidade</string>
+
+    <string name="iate_descriçao">Construído inicialmente para incrementar a prática do esporte naútico em Aracaju, surgia no ano de 1953, graças a um sonho levado a efeito por um grupo de homens amantes do esporte a vela, o Iate Clube de Aracaju.
+        \n
+        \n
+
+A primeira reunião do Icaju aconteceu na sede do Clube Esportivo Sergipe, quando foi assinada a ata de fundação do Iate Clube de Aracaju - Icaju, que teve como seu primeiro Comodoro Alcebíades Vilas Boas. Para consolidar a implantação do clube, era necessária a existência de uma flotilha de barcos. O bancário e marceneiro Álvaro Bezerra construiu em madeira cinco barcos da categoria Snipe, que se consagraram campeões em diversos campeonatos norte/nordeste representando o Icaju.
+        \n
+        \n
+
+Daí pra cá, o clube se desenvolveu na área de esportes náuticos, com destaque para a vela e também na área social, com a inauguração do Salão Tennysson Freire em 1971 (salão nobre) e da piscina em 1973. Iniciativas que trouxeram vários associados ao convívio do clube.
+        \n
+        \n
+
+Hoje, na gestão Por Amor ao Iate, capitaneada pelo Comodoro Eugênio Sobral, o Iate e seus parceiros fazem, cada dia mais, parte da vida dos sergipanos com serviços ofertados em diversas áreas ligadas ao iatismo, à saúde e ao lazer.</string>
+
+    <string name="aracaju_descriçao">Aracaju é um município e capital do estado de Sergipe, no Brasil. Localiza-se no litoral, sendo cortada por rios como o Sergipe e o Poxim. De acordo com a estimativa de 2017, sua população é de 650 106 habitantes. Somando-se as populações dos municípios que formam a Grande Aracaju: Barra dos Coqueiros, Nossa Senhora do Socorro e São Cristóvão, o número passa para 938 550 habitantes. Apesar de ser a menos populosa das capitais nordestinas, sua localização perfaz como importante ponto estratégico enquanto centro urbano, econômico, cultural e político para o país.
+        \n
+        \n
+
+É apontada como a capital com menor desigualdade do Nordeste Brasileiro, como a cidade com os hábitos de vida mais saudáveis do país, exemplo nacional na consideração de ciclovias nos projetos de deslocamento urbano e é considerada a capital do país com menor índice de fumantes, segundo o Ministério da Saúde.
+        \n
+        \n
+
+Está entre as capitais com os custos de vida mais reduzidos do país, tendo focado mais recentemente suas ações turísticas na criação de alojamentos coletivos de qualidade, tais como os mundialmente conhecidos hostels. Mediante planejamento têm sido realizadas ações de plenas melhorias do transporte público que visem incrementar a integração dessa nova parcela de usuários visitantes. No avanço de buscar facilidades de acesso, as linhas de ônibus podem ser monitoradas em tempo real via GPS aqui.
+        \n
+        \n
+
+Anualmente tem como comemorações marcantes, em seu calendário festivo-turístico, os eventos do Forró Caju e o Fest Verão Sergipe e possui um dos museus tecnológicos mais importantes do país, que fora eleito atração do ano em 2013 pelo maior guia turístico nacional em número de tiragem. Trata-se da consagração do Museu da Gente Sergipana.</string>
+</resources>
