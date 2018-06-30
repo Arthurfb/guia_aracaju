@@ -4,7 +4,7 @@ public class LocalInfo {
 
     private int mImageResouceId;
 
-    private int mDescriçaoLocalId;
+    private int mDescricaoLocalId;
 
     private int mNomeLocalId;
 
@@ -12,7 +12,7 @@ public class LocalInfo {
 
 
     public LocalInfo(int descriçaoLocalId, int imageResourceId, int nomeLocalId, int maisInfoId) {
-        mDescriçaoLocalId = descriçaoLocalId;
+        mDescricaoLocalId = descriçaoLocalId;
         mImageResouceId = imageResourceId;
         mNomeLocalId = nomeLocalId;
         mMaisInfoId = maisInfoId;
@@ -20,7 +20,7 @@ public class LocalInfo {
     }
 
     public int getNomeLocalId() {
-        return mDescriçaoLocalId;
+        return mDescricaoLocalId;
     }
 
     public int getImageResourceId() {

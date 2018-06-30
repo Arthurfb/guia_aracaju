@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = findViewById(R.id.sliding_tabs);
         tabLayout.setupWithViewPager(viewPager);
 
-        Toast.makeText(MainActivity.this, "clique na tela para saber mais detalhes sobre o local", Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this, R.string.aviso_inicial, Toast.LENGTH_LONG).show();
 
     }
 
